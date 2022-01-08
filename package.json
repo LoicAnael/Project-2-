@@ -1,0 +1,22 @@
+{
+  "name": "p2_loic_booki",
+  "version": "1.0.0",
+  "description": "projet 2 openClassrooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoicAnael/Project-2-.git"
+  },
+  "author": "loic anael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoicAnael/Project-2-/issues"
+  },
+  "homepage": "https://github.com/LoicAnael/Project-2-#readme",
+  "dependencies": {
+    "sass": "^1.47.0"
+  }
+}
